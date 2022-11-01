@@ -2,6 +2,7 @@ Synthetic and Real-world datasets:
 We have evaluated the performance and accuracy of our algorithm on synthetic (SYN*) MTS datasets and real-world MTS datasets (RWD*). 
 We have used Dell Inc. 1.1.35, 11th Gen Intel(R) Core (TM) i7-11700 @ 2.50GHz, 2496 MHz, 8 Core(s) and 16 Logical Processors. All the algorithms are implemented in Python 3.10.4 and all the experiments are also performed on the same platform. 
 Datasets Preparation for checking the accuracy and performance of the algorithm:
+https://github.com/Rabbia100/Project-Data-/blob/main/E%20-%20Datasets%20-%20effectiveness%20of%20the%20algorithm%20DDMTS.ipynb
 We have created the SYN* and RWD* for the following two cases,
 Case 1: Indirect association/relation of the data streams
 Case 2: Direct association/relation of the data streams
